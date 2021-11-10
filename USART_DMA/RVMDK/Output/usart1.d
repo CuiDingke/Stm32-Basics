@@ -1,0 +1,17 @@
+.\output\usart1.o: ..\User\usart1.c
+.\output\usart1.o: ..\User\usart1.h
+.\output\usart1.o: ..\Libraries\CMSIS\CM3\STM32F10x\stm32f10x.h
+.\output\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\output\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\output\usart1.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\output\usart1.o: ..\Libraries\CMSIS\CM3\STM32F10x\system_stm32f10x.h
+.\output\usart1.o: ..\User\stm32f10x_conf.h
+.\output\usart1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\output\usart1.o: ..\Libraries\CMSIS\CM3\STM32F10x\stm32f10x.h
+.\output\usart1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\usart1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\usart1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\usart1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\output\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\usart1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
